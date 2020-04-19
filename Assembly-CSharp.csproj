@@ -64,10 +64,6 @@
      <Compile Include="Assets\Script\AI\BehaviorTree\Repeater.cs" />
      <Compile Include="Assets\Script\AI\BehaviorTree\Selector.cs" />
      <Compile Include="Assets\Script\AI\BehaviorTree\Sequence.cs" />
-     <Compile Include="Assets\Script\AnimatorStateBehaviors\AttackBehavior.cs" />
-     <Compile Include="Assets\Script\AnimatorStateBehaviors\BaseBehavior.cs" />
-     <Compile Include="Assets\Script\AnimatorStateBehaviors\MoveBehavior.cs" />
-     <Compile Include="Assets\Script\AnimatorStateBehaviors\RotateBehavior.cs" />
      <Compile Include="Assets\Script\BTCharacter.cs" />
      <Compile Include="Assets\Script\Spawner.cs" />
      <Compile Include="Assets\Script\TopText.cs" />
